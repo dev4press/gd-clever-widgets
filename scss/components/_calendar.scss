@@ -1,0 +1,146 @@
+.clw-calendar-basic {
+    table {
+        color: #686868;
+        font-size: 0.928571rem;
+        line-height: 1.84615;
+        margin: 0;
+        width: 100%;
+
+        th,
+        td {
+            text-align: right;
+            padding: 5px;
+        }
+
+        caption {
+            text-align: center;
+        }
+
+        .clw-calendar-prev {
+            text-align: left;
+        }
+
+        &.clw-calendar {
+            background: #ffffff;
+            border: 1px solid #dddddd;
+            table-layout: fixed;
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 1px;
+
+            caption {
+                background: transparent;
+                color: #222222;
+                font-size: 1em;
+                line-height: 2em;
+                font-weight: bold;
+                text-align: center;
+            }
+        }
+    }
+}
+
+.clw-calendar-clean {
+    table {
+        &.clw-calendar {
+            background: #ffffff;
+            border: 1px solid #dddddd;
+            table-layout: fixed;
+            width: 100%;
+            border-collapse: separate;
+            border-spacing: 1px;
+
+            caption {
+                background: transparent;
+                color: #222222;
+                font-size: 1em;
+                line-height: 2em;
+                font-weight: bold;
+                text-align: center;
+            }
+
+            thead,
+            tfoot {
+                th,
+                td {
+                    background-color: #e4e4e4;
+                }
+            }
+
+            tr {
+                th,
+                td {
+                    color: #222222;
+                    font-size: 0.9em;
+                    border: 1px solid #e8e8e8;
+                    padding: 0.5em 0.4em;
+                    text-align: left;
+                }
+            }
+
+            thead,
+            tfoot,
+            tbody {
+                tr {
+                    th,
+                    td {
+                        display: table-cell;
+                        line-height: 1.2em;
+                    }
+                }
+            }
+
+            thead {
+                tr {
+                    th {
+                        padding: 0.5em 0.1em;
+                        text-align: center;
+                    }
+                }
+            }
+
+            tbody {
+                tr {
+                    td {
+                        text-align: right;
+                    }
+                }
+            }
+
+            tfoot,
+            thead {
+                tr {
+                    th,
+                    td {
+                        color: #222222;
+                        font-size: 1em;
+                        font-weight: bold;
+                    }
+                }
+            }
+
+            tr {
+                background-color: #ffffff;
+
+                &:nth-of-type(2n) {
+                    background-color: #f4f4f4;
+                }
+
+                td {
+                    &.clw-calendar-has-posts {
+                        background-color: #d8d8d8;
+                        font-weight: bold;
+                    }
+                }
+            }
+
+            .clw-calendar-prev {
+                text-align: left;
+            }
+
+            .clw-calendar-next {
+                text-align: right;
+            }
+        }
+    }
+}

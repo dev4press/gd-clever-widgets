@@ -1,0 +1,156 @@
+.clw-units-converter {
+    .clw-middle {
+        margin: 0 0 5px;
+        font-size: 15px;
+        overflow: hidden;
+
+        .clw-middle-to {
+            float: left;
+        }
+
+        .clw-middle-replace {
+            float: right;
+            cursor: pointer;
+        }
+    }
+
+    input,
+    select,
+    .clw-converter-output {
+        width: 100%;
+        margin: 0 0 5px;
+    }
+
+    &.clw-converter-plain {
+        input,
+        select,
+        .clw-converter-output {
+            box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1) inset;
+            line-height: 1;
+            height: 28px;
+            border-radius: 2px;
+        }
+
+        input {
+            padding: 3px;
+        }
+
+        select {
+            padding: 3px 3px 3px 1px;
+        }
+
+        input,
+        select {
+            background: #FFFFFF;
+            border: 1px solid #CCCCCC;
+            color: #555555;
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+        .clw-converter-output {
+            overflow: hidden;
+            background: #FAFAFA;
+            border: 1px solid #AAAAAA;
+            color: #333333;
+            font-weight: bold;
+            font-size: 17px;
+            padding: 0 6px;
+            line-height: 28px;
+        }
+
+        &.clw-plain-large {
+            input,
+            select,
+            .clw-converter-output {
+                line-height: 1;
+                height: 34px;
+                border-radius: 3px;
+                margin: 0 0 10px;
+            }
+
+            input,
+            select {
+                font-size: 17px;
+            }
+
+            .clw-converter-output {
+                font-size: 21px;
+                height: 38px;
+                padding: 0 5px;
+                line-height: 36px;
+            }
+
+            .clw-middle {
+                font-size: 18px;
+                line-height: 1;
+                margin: 0 0 10px;
+            }
+        }
+    }
+
+    &.clw-converter-flat {
+        input,
+        select,
+        .clw-converter-output {
+            box-shadow: none;
+            line-height: 1;
+            height: 30px;
+            border-radius: 0;
+        }
+
+        input,
+        select {
+            padding: 0 5px;
+        }
+
+        input,
+        select {
+            background: #FFFFFF;
+            border: 2px solid #AAAAAA;
+            color: #555555;
+            font-size: 14px;
+            font-weight: normal;
+        }
+
+        .clw-converter-output {
+            overflow: hidden;
+            background: #FAFAFA;
+            border: 2px solid #AAAAAA;
+            color: #333333;
+            font-weight: bold;
+            font-size: 17px;
+            padding: 0 6px;
+            line-height: 30px;
+        }
+
+        &.clw-flat-large {
+            input,
+            select,
+            .clw-converter-output {
+                line-height: 1.5em;
+                height: 34px;
+                border-radius: 0;
+                margin: 0 0 10px;
+            }
+
+            input,
+            select {
+                font-size: 17px;
+            }
+
+            .clw-converter-output {
+                font-size: 21px;
+                height: 38px;
+                padding: 0 5px;
+                line-height: 38px;
+            }
+
+            .clw-middle {
+                font-size: 18px;
+                line-height: 1;
+                margin: 0 0 10px;
+            }
+        }
+    }
+}

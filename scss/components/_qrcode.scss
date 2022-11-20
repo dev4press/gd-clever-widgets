@@ -1,0 +1,43 @@
+.clw-qrcode-container {
+    img {
+        margin: 0;
+        display: inline-block;
+        max-width: 100%;
+        height: auto;
+    }
+
+    &.alignleft {
+        text-align: left;
+    }
+
+    &.aligncenter {
+        text-align: center;
+    }
+
+    &.alignright {
+        text-align: right;
+    }
+}
+
+.clw-qrcode-textual {
+    margin: 10px 0 0;
+    font-size: .9em;
+    line-height: 1.3em;
+
+    h5 {
+        margin: 0 0 .1em;
+        padding: 0;
+        font-weight: bold;
+        font-size: 1.1em;
+        line-height: 1.3em;
+    }
+
+    ul {
+        list-style: none outside none;
+
+        li {
+            list-style: none outside none;
+            padding: 2px 0;
+        }
+    }
+}

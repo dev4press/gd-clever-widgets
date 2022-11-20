@@ -1,0 +1,2492 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural - Forms: nplurals = INTEGER; plural = EXPRESSION;\n"
+"Project-Id-Version: gd-clever-widgets\n"
+"POT-Creation-Date: 04/03/2019 06:29:33 PM\n"
+"Language-Team: Milan Petrovic <support@dev4press.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: GD i18n 2.1\n"
+
+#: core/admin/getback.php:19
+msgid "Only administrators can use export features."
+msgstr ""
+
+#: core/admin/options.php:34
+msgid "Fontawesome Icons Font"
+msgstr ""
+
+#: core/admin/options.php:35
+msgid "Load Fontawesome"
+msgstr ""
+
+#: core/admin/options.php:35
+msgid "FontAwesome font icons can be used for some widgets for styling."
+msgstr ""
+
+#: core/admin/options.php:39
+msgid "Enhanced Widgets"
+msgstr ""
+
+#: core/admin/options.php:40
+#: core/admin/options.php:73
+#: core/code/qr.php:77
+#: forms/widgets/qrcode-content.php:45
+#: forms/widgets/qrcode-content.php:3
+msgid "Text"
+msgstr ""
+
+#: core/admin/options.php:41
+msgid "Posts"
+msgstr ""
+
+#: core/admin/options.php:42
+#: core/admin/options.php:70
+msgid "Meta"
+msgstr ""
+
+#: core/admin/options.php:43
+#: core/admin/options.php:69
+msgid "Calendar"
+msgstr ""
+
+#: core/admin/options.php:44
+msgid "Terms Cloud"
+msgstr ""
+
+#: core/admin/options.php:46
+msgid "Navigator Widgets"
+msgstr ""
+
+#: core/admin/options.php:47
+msgid "Date Archives"
+msgstr ""
+
+#: core/admin/options.php:48
+msgid "Menu"
+msgstr ""
+
+#: core/admin/options.php:49
+msgid "Pages"
+msgstr ""
+
+#: core/admin/options.php:50
+msgid "Terms"
+msgstr ""
+
+#: core/admin/options.php:52
+msgid "Content Widgets"
+msgstr ""
+
+#: core/admin/options.php:53
+#: widgets/author-information.php:33
+msgid "Author Information"
+msgstr ""
+
+#: core/admin/options.php:54
+#: widgets/posts-authors.php:37
+msgid "Posts Authors"
+msgstr ""
+
+#: core/admin/options.php:55
+#: widgets/featured-post.php:29
+msgid "Featured Post"
+msgstr ""
+
+#: core/admin/options.php:56
+#: widgets/related-posts.php:35
+msgid "Related Posts"
+msgstr ""
+
+#: core/admin/options.php:58
+msgid "Conversion Widgets"
+msgstr ""
+
+#: core/admin/options.php:59
+#: widgets/units-converter.php:26
+msgid "Units Conversion"
+msgstr ""
+
+#: core/admin/options.php:60
+#: widgets/currency-exchange.php:26
+msgid "Currency Exchange"
+msgstr ""
+
+#: core/admin/options.php:62
+msgid "Other Widgets"
+msgstr ""
+
+#: core/admin/options.php:63
+#: widgets/qr-code.php:58
+msgid "QR Code"
+msgstr ""
+
+#: core/admin/options.php:64
+#: widgets/videos-playlist.php:30
+msgid "Videos Playlist"
+msgstr ""
+
+#: core/admin/options.php:68
+msgid "Disable some default WordPress Widgets"
+msgstr ""
+
+#: core/admin/options.php:69
+#: core/admin/options.php:70
+#: core/admin/options.php:71
+#: core/admin/options.php:72
+#: core/admin/options.php:73
+#: forms/widgets/related-filter.php:9
+msgid "Disabled"
+msgstr ""
+
+#: core/admin/options.php:71
+msgid "Recent Posts"
+msgstr ""
+
+#: core/admin/options.php:72
+msgid "Tag Cloud"
+msgstr ""
+
+#: core/admin/options.php:77
+msgid "Website Loading"
+msgstr ""
+
+#: core/admin/options.php:78
+msgid "Website uses AJAX Loading"
+msgstr ""
+
+#: core/admin/options.php:80
+msgid "Development Mode"
+msgstr ""
+
+#: core/admin/options.php:81
+msgid "Dummy Data Available"
+msgstr ""
+
+#: core/admin/options.php:81
+msgid "Widgets will get extra settings tab called DEV with option to use dummy data for development purposes."
+msgstr ""
+
+#: core/admin/options.php:85
+msgid "Currency: Google"
+msgstr ""
+
+#: core/admin/options.php:86
+#: core/admin/options.php:89
+#: core/admin/options.php:92
+msgid "Cache Timeout"
+msgstr ""
+
+#: core/admin/options.php:86
+msgid "Google currency rates are updated once a day."
+msgstr ""
+
+#: core/admin/options.php:88
+msgid "Currency: European Central Bank"
+msgstr ""
+
+#: core/admin/options.php:89
+msgid "European Central Bank currency rates are updated once a day."
+msgstr ""
+
+#: core/admin/options.php:91
+msgid "Currency: Open Exchange Rates"
+msgstr ""
+
+#: core/admin/options.php:92
+msgid "Open Exchange Rates currency rates are updated once every hour."
+msgstr ""
+
+#: core/admin/options.php:93
+msgid "App ID"
+msgstr ""
+
+#: core/admin/options.php:93
+msgid "This service requires App ID to work. Both Free and Pro accounts are supported. To get the App ID, you need to register for an account here:"
+msgstr ""
+
+#: core/admin/options.php:94
+msgid "Secure Connection"
+msgstr ""
+
+#: core/admin/options.php:94
+msgid "Secure connection requires Pro account for Open Exchange Rates service. Do not enable this if you are using Free account."
+msgstr ""
+
+#: core/admin/plugin.php:18
+#: forms/widgets/qrcode-display.php:63
+#: forms/front.php:8
+#: forms/settings.php:39
+msgid "Settings"
+msgstr ""
+
+#: core/admin/plugin.php:27
+msgid "Knowledge Base"
+msgstr ""
+
+#: core/admin/plugin.php:28
+msgid "Support Forum"
+msgstr ""
+
+#: core/admin/plugin.php:49
+msgid "GD Clever Widgets Pro"
+msgstr ""
+
+#: core/admin/plugin.php:69
+msgid "GD Clever Widgets is activated and it needs to finish installation."
+msgstr ""
+
+#: core/admin/plugin.php:70
+#: core/admin/plugin.php:79
+msgid "Click Here"
+msgstr ""
+
+#: core/admin/plugin.php:78
+msgid "GD Clever Widgets is updated, and you need to review the update process."
+msgstr ""
+
+#: core/admin/plugin.php:85
+msgid "GD Clever Widgets"
+msgstr ""
+
+#: core/admin/plugin.php:150
+msgid "Select Image"
+msgstr ""
+
+#: core/admin/plugin.php:151
+msgid "Use Selected Image"
+msgstr ""
+
+#: core/admin/plugin.php:152
+msgid "Are you sure you want to do this?"
+msgstr ""
+
+#: core/admin/plugin.php:153
+msgid "Image not selected."
+msgstr ""
+
+#: core/code/calendar.php:76
+msgctxt "calendar caption"
+msgid "%1$s %2$s"
+msgstr ""
+
+#: core/code/calendar.php:184
+msgid "post"
+msgid_plural "posts"
+msgstr[0] ""
+msgstr[1] ""
+
+#: core/code/navigator.php:161
+msgid "Toggle item level"
+msgstr ""
+
+#: core/code/navigator.php:189
+msgid "Please wait..."
+msgstr ""
+
+#: core/code/qr.php:83
+#: forms/widgets/qrcode-content.php:74
+#: forms/widgets/qrcode-content.php:265
+msgid "URL"
+msgstr ""
+
+#: core/code/qr.php:89
+#: forms/widgets/qrcode-content.php:89
+#: forms/widgets/qrcode-content.php:95
+#: forms/widgets/qrcode-content.php:125
+#: forms/widgets/qrcode-content.php:269
+#: forms/widgets/qrcode-content.php:8
+msgid "Email"
+msgstr ""
+
+#: core/code/qr.php:95
+msgid "Skype Username"
+msgstr ""
+
+#: core/code/qr.php:101
+msgid "RSS Feed"
+msgstr ""
+
+#: core/code/qr.php:107
+#: forms/widgets/qrcode-content.php:110
+#: forms/widgets/qrcode-content.php:199
+#: forms/widgets/qrcode-content.php:11
+msgid "Phone Number"
+msgstr ""
+
+#: core/code/qr.php:113
+#: forms/widgets/qrcode-content.php:193
+#: forms/widgets/qrcode-content.php:10
+msgid "SMS Message"
+msgstr ""
+
+#: core/code/qr.php:119
+msgid "Map Location"
+msgstr ""
+
+#: core/code/qr.php:127
+msgid "Contact Information"
+msgstr ""
+
+#: core/code/qr.php:135
+msgid "WiFi Access"
+msgstr ""
+
+#: core/code/qr.php:140
+#: forms/widgets/qrcode-content.php:226
+msgid "Password"
+msgstr ""
+
+#: core/code/qr.php:144
+#: forms/widgets/qrcode-content.php:230
+msgid "Encryption"
+msgstr ""
+
+#: core/code/qr.php:152
+#: forms/widgets/qrcode-content.php:119
+#: forms/widgets/qrcode-content.php:9
+msgid "Email Message"
+msgstr ""
+
+#: core/code/qr.php:160
+msgid "Current Page URL"
+msgstr ""
+
+#: core/code/terms.php:104
+msgid "Invalid Taxonomy"
+msgstr ""
+
+#: core/code/terms.php:432
+msgid "Invalid taxonomy"
+msgstr ""
+
+#: core/objects/core.styles.php:13
+#: core/objects/core.styles.php:21
+#: core/objects/core.styles.php:27
+#: core/objects/core.styles.php:32
+#: core/objects/core.styles.php:37
+#: core/objects/core.styles.php:42
+#: forms/widgets/cloud-content.php:10
+#: forms/widgets/navigator-display.php:2
+msgid "None"
+msgstr ""
+
+#: core/objects/core.styles.php:14
+#: core/objects/core.styles.php:22
+#: core/objects/core.styles.php:28
+#: core/objects/core.styles.php:33
+#: core/objects/core.styles.php:38
+msgid "Plain"
+msgstr ""
+
+#: core/objects/core.styles.php:15
+msgid "Plain, Large"
+msgstr ""
+
+#: core/objects/core.styles.php:16
+msgid "Flat"
+msgstr ""
+
+#: core/objects/core.styles.php:17
+msgid "Flat, Large"
+msgstr ""
+
+#: core/objects/core.styles.php:23
+msgid "Elegant"
+msgstr ""
+
+#: core/objects/core.styles.php:43
+#: forms/widgets/shared-global.php:0
+#: forms/settings.php:10
+msgid "Basic"
+msgstr ""
+
+#: core/objects/core.styles.php:44
+msgid "Clean"
+msgstr ""
+
+#: core/objects/core.templates.php:10
+#: core/objects/core.templates.php:18
+msgid "Standard"
+msgstr ""
+
+#: core/objects/core.templates.php:11
+msgid "Modern"
+msgstr ""
+
+#: core/objects/core.templates.php:12
+msgid "Minimal"
+msgstr ""
+
+#: core/objects/core.templates.php:13
+msgid "Full Content"
+msgstr ""
+
+#: core/objects/core.templates.php:14
+msgid "Featured Image"
+msgstr ""
+
+#: core/ajax.php:85
+msgid "Widget not found."
+msgstr ""
+
+#: core/plugin.php:78
+msgid "GD Clever Widgets Pro requires WordPress %s or newer. Plugin will now be disabled. To use this plugin, upgrade WordPress to %s or newer version."
+msgstr ""
+
+#: core/plugin.php:224
+#: forms/widgets/cloud-display.php:3
+#: forms/widgets/navigator-display.php:6
+#: forms/widgets/qrcode-display.php:3
+msgid "Yes"
+msgstr ""
+
+#: core/plugin.php:225
+#: forms/widgets/cloud-display.php:4
+#: forms/widgets/navigator-display.php:7
+#: forms/widgets/qrcode-display.php:4
+msgid "No"
+msgstr ""
+
+#: forms/about/changelog.php:1
+#: forms/about/changelog.php:31
+#: forms/about/changelog.php:77
+#: forms/about/info.php:4
+#: forms/about/info.php:51
+#: forms/about/info.php:56
+#: forms/about/minor.php:3
+msgid "Version"
+msgstr ""
+
+#: forms/about/header.php:11
+msgid "Back to plugin settings"
+msgstr ""
+
+#: forms/about/header.php:12
+msgid "What&#8217;s New"
+msgstr ""
+
+#: forms/about/header.php:13
+msgid "Info"
+msgstr ""
+
+#: forms/about/header.php:14
+msgid "Changelog"
+msgstr ""
+
+#: forms/about/header.php:15
+msgid "Dev4Press"
+msgstr ""
+
+#: forms/about/header.php:21
+msgid "Welcome to GD Clever Widgets Pro&nbsp;%s"
+msgstr ""
+
+#: forms/about/header.php:27
+msgid "Version %s"
+msgstr ""
+
+#: forms/about/info.php:5
+#: forms/widgets/calendar-display.php:8
+msgid "Date"
+msgstr ""
+
+#: forms/about/info.php:6
+msgid "Status"
+msgstr ""
+
+#: forms/about/info.php:7
+msgid "Build"
+msgstr ""
+
+#: forms/about/info.php:11
+msgid "First released"
+msgstr ""
+
+#: forms/about/info.php:17
+msgid "System Requirements"
+msgstr ""
+
+#: forms/about/info.php:20
+msgid "WordPress"
+msgstr ""
+
+#: forms/about/info.php:21
+msgid "PHP"
+msgstr ""
+
+#: forms/about/info.php:22
+msgid "MySQL"
+msgstr ""
+
+#: forms/about/info.php:28
+msgid "Knowledge Base and Support Forums"
+msgstr ""
+
+#: forms/about/info.php:41
+msgid "On Dev4Press"
+msgstr ""
+
+#: forms/about/info.php:47
+msgid "Translations"
+msgstr ""
+
+#: forms/about/info.php:31
+msgid "To learn more about the plugin, check out plugin %s articles and FAQ. To get additional help, you can use %s."
+msgstr ""
+
+#: forms/about/info.php:32
+msgid "knowledge base"
+msgstr ""
+
+#: forms/about/info.php:33
+msgid "support forum"
+msgstr ""
+
+#: forms/about/minor.php:1
+msgid "Maintenance and Security Releases"
+msgstr ""
+
+#: forms/about/minor.php:7
+msgid "For more information, see <a href='%s'>the changelog</a>."
+msgstr ""
+
+#: forms/render/currency-exchange.php:46
+#: forms/render/units-converter.php:46
+msgid "Source value"
+msgstr ""
+
+#: forms/render/currency-exchange.php:53
+#: forms/render/units-converter.php:53
+msgid "Converted value"
+msgstr ""
+
+#: forms/render/currency-exchange.php:42
+#: forms/render/units-converter.php:42
+msgid "Coversion data source"
+msgstr ""
+
+#: forms/render/currency-exchange.php:47
+#: forms/render/units-converter.php:47
+msgid "Source currency"
+msgstr ""
+
+#: forms/render/currency-exchange.php:52
+#: forms/render/units-converter.php:52
+msgid "Target currency"
+msgstr ""
+
+#: forms/shared/invalid.php:9
+msgid "Invalid Request"
+msgstr ""
+
+#: forms/shared/invalid.php:13
+msgid "Error"
+msgstr ""
+
+#: forms/shared/invalid.php:16
+msgid "Current request URL is invalid, and it can't be processed."
+msgstr ""
+
+#: forms/shared/top.php:31
+msgid "Settings are saved."
+msgstr ""
+
+#: forms/shared/top.php:35
+msgid "Removal operation completed."
+msgstr ""
+
+#: forms/shared/top.php:38
+msgid "Import operation completed."
+msgstr ""
+
+#: forms/shared/top.php:41
+msgid "Nothing to do."
+msgstr ""
+
+#: forms/tools/cache.php:1
+#: forms/tools/export.php:3
+#: forms/tools/import.php:1
+#: forms/tools/remove.php:1
+#: forms/widgets/qrcode-display.php:56
+#: forms/widgets/qrcode-display.php:98
+msgid "Important"
+msgstr ""
+
+#: forms/tools/cache.php:3
+msgid "This tool can remove all cached data for widgets. This tool is useful for testing purposes if the data used by widget changes, without the need to wait for widget cache to expire on it's own."
+msgstr ""
+
+#: forms/tools/cache.php:4
+msgid "Deletion operations are not reversible, but next time widget that uses cache is displayed, it will rebuild cache."
+msgstr ""
+
+#: forms/tools/cache.php:5
+msgid "If you don't use cache features for the widget, this tool will have no effect."
+msgstr ""
+
+#: forms/tools/cache.php:9
+msgid "Confirm that you want to clear cache"
+msgstr ""
+
+#: forms/tools/cache.php:12
+msgid "Clear Widgets Cache"
+msgstr ""
+
+#: forms/tools/export.php:5
+msgid "With this tool you export all plugin settings into plain text file (JSON). Do not modify export file, any change you make can make it unusable."
+msgstr ""
+
+#: forms/tools/export.php:6
+msgid "This will not export widgets added to any of the sidebars, only main plugin settings!"
+msgstr ""
+
+#: forms/tools/import.php:3
+msgid "With this tool you import all plugin settings from plain text file made using the Export tool. If you made changes to this file, it is very likely that import will fail."
+msgstr ""
+
+#: forms/tools/import.php:8
+msgid "Import File"
+msgstr ""
+
+#: forms/tools/import.php:10
+msgid "Select file you want to import"
+msgstr ""
+
+#: forms/tools/remove.php:3
+msgid "This tool can remove plugin settings saved in the WordPress options table."
+msgstr ""
+
+#: forms/tools/remove.php:4
+msgid "Deletion operations are not reversible, and it is recommended to create database backup before proceeding with this tool."
+msgstr ""
+
+#: forms/tools/remove.php:5
+msgid "If you choose to remove plugin settings, that will also reinitialize all plugin settings to default values."
+msgstr ""
+
+#: forms/tools/remove.php:9
+msgid "Choose what you want to delete"
+msgstr ""
+
+#: forms/tools/remove.php:12
+msgid "All Plugin Settings"
+msgstr ""
+
+#: forms/tools/remove.php:18
+msgid "Disable Plugin"
+msgstr ""
+
+#: forms/tools/remove.php:21
+msgid "Disable plugin"
+msgstr ""
+
+#: forms/widgets/author-content.php:9
+#: forms/widgets/authors-content.php:100
+#: forms/widgets/posts-filter.php:42
+msgid "Sorting"
+msgstr ""
+
+#: forms/widgets/author-content.php:14
+msgid "Author Selection Method"
+msgstr ""
+
+#: forms/widgets/author-content.php:18
+msgid "Select Author"
+msgstr ""
+
+#: forms/widgets/author-content.php:3
+msgid "Current Author"
+msgstr ""
+
+#: forms/widgets/author-content.php:4
+msgid "Selected Author"
+msgstr ""
+
+#: forms/widgets/authors-content.php:16
+#: forms/widgets/related-content.php:0
+msgid "Post types"
+msgstr ""
+
+#: forms/widgets/authors-content.php:34
+msgid "Widget will match authors that have posts belonging to selected post types, all other authors will be ignored. Additional filters will be used also."
+msgstr ""
+
+#: forms/widgets/authors-content.php:41
+#: forms/widgets/posts-content.php:37
+msgid "Filter Authors"
+msgstr ""
+
+#: forms/widgets/authors-content.php:49
+#: forms/widgets/posts-content.php:45
+msgid "Include or exclude authors, don't mix the two. If some authors are marked for exclusion, included authors will not be used. This is how WP_Query works."
+msgstr ""
+
+#: forms/widgets/authors-content.php:54
+#: forms/widgets/authors-content.php:70
+#: forms/widgets/posts-content.php:50
+#: forms/widgets/posts-content.php:66
+#: forms/widgets/posts-content.php:101
+#: forms/widgets/posts-content.php:117
+msgid "remove"
+msgstr ""
+
+#: forms/widgets/authors-content.php:84
+#: forms/widgets/authors-display.php:23
+#: forms/widgets/cloud-content.php:79
+#: forms/widgets/cloud-display.php:35
+#: forms/widgets/posts-filter.php:26
+msgid "Additional Options"
+msgstr ""
+
+#: forms/widgets/authors-content.php:89
+msgid "Limit Number of Authors"
+msgstr ""
+
+#: forms/widgets/authors-content.php:93
+msgid "Minimal posts for inclusion"
+msgstr ""
+
+#: forms/widgets/authors-content.php:105
+#: forms/widgets/cloud-content.php:84
+#: forms/widgets/navpage-content.php:109
+#: forms/widgets/navterm-content.php:120
+#: forms/widgets/posts-filter.php:47
+msgid "Sort Method"
+msgstr ""
+
+#: forms/widgets/authors-content.php:109
+#: forms/widgets/cloud-content.php:88
+#: forms/widgets/navdate-content.php:92
+#: forms/widgets/navpage-content.php:112
+#: forms/widgets/navterm-content.php:123
+#: forms/widgets/posts-filter.php:51
+msgid "Sort Order"
+msgstr ""
+
+#: forms/widgets/authors-content.php:3
+#: forms/widgets/navpage-content.php:23
+#: forms/widgets/navterm-content.php:30
+#: forms/widgets/posts-filter.php:3
+msgid "No Sorting"
+msgstr ""
+
+#: forms/widgets/authors-content.php:4
+msgid "Posts count"
+msgstr ""
+
+#: forms/widgets/authors-content.php:5
+msgid "User ID"
+msgstr ""
+
+#: forms/widgets/authors-content.php:6
+msgid "User Login"
+msgstr ""
+
+#: forms/widgets/authors-content.php:10
+#: forms/widgets/cloud-content.php:3
+#: forms/widgets/navdate-content.php:17
+#: forms/widgets/navpage-content.php:36
+#: forms/widgets/navterm-content.php:38
+#: forms/widgets/posts-filter.php:15
+msgid "Descending"
+msgstr ""
+
+#: forms/widgets/authors-content.php:11
+#: forms/widgets/cloud-content.php:4
+#: forms/widgets/navdate-content.php:18
+#: forms/widgets/navpage-content.php:37
+#: forms/widgets/navterm-content.php:39
+#: forms/widgets/posts-filter.php:16
+msgid "Ascending"
+msgstr ""
+
+#: forms/widgets/authors-display.php:0
+msgid "Elements to show"
+msgstr ""
+
+#: forms/widgets/authors-display.php:8
+msgid "Show author's avatar"
+msgstr ""
+
+#: forms/widgets/authors-display.php:12
+msgid "Show author's information if available"
+msgstr ""
+
+#: forms/widgets/authors-display.php:16
+msgid "Show author's recent posts for selected post types"
+msgstr ""
+
+#: forms/widgets/authors-display.php:28
+msgid "Avatar size"
+msgstr ""
+
+#: forms/widgets/authors-display.php:32
+msgid "Recent posts to include"
+msgstr ""
+
+#: forms/widgets/authors-display.php:39
+msgid "Authors Rendering"
+msgstr ""
+
+#: forms/widgets/authors-display.php:44
+#: forms/widgets/featured-display.php:5
+#: forms/widgets/posts-display.php:5
+msgid "Template"
+msgstr ""
+
+#: forms/widgets/authors-display.php:48
+#: forms/widgets/calendar-display.php:35
+#: forms/widgets/currency-exchange.php:37
+#: forms/widgets/currency-exchange.php:42
+#: forms/widgets/featured-display.php:9
+#: forms/widgets/navigator-display.php:26
+#: forms/widgets/navigator-display.php:31
+#: forms/widgets/posts-display.php:9
+#: forms/widgets/units-converter.php:37
+#: forms/widgets/units-converter.php:42
+msgid "Style"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:24
+msgid "Post types to use"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:29
+msgid "Selected Post Types"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:43
+msgid "WordPress date based archives by default work only with Posts. If you want other post types to be used to generate the Calendar, you also need to update the archives to handle other post types there."
+msgstr ""
+
+#: forms/widgets/calendar-content.php:50
+msgid "Calendar Content"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:55
+msgid "Month and Year to display"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:60
+msgid "Auto Generated"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:61
+msgid "Month and Year displayed will depend on current query to load page. If query is not setting calendar, current Month and Year will be used."
+msgstr ""
+
+#: forms/widgets/calendar-content.php:64
+msgid "Current Month"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:65
+msgid "Current Month and Year will be used to display calendar."
+msgstr ""
+
+#: forms/widgets/calendar-content.php:68
+msgid "Month"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:71
+msgid "Year"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:3
+msgid "Auto"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:4
+msgid "Current"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:5
+msgid "Selected"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:9
+msgid "January"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:10
+msgid "February"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:11
+msgid "March"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:12
+msgid "April"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:13
+msgid "May"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:14
+msgid "June"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:15
+msgid "July"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:16
+msgid "August"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:17
+msgid "September"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:18
+msgid "October"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:19
+msgid "November"
+msgstr ""
+
+#: forms/widgets/calendar-content.php:20
+msgid "December"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:14
+msgid "Display Control"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:19
+msgid "Weekdays Titles"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:23
+msgid "Days Title Tag"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:30
+msgid "Predefined Style"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:44
+#: forms/widgets/navigator-display.php:39
+msgid "Additional"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:49
+msgid "ID for TABLE tag"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:51
+msgid "Must be unique on each page. Some themes use this ID to style the calendar."
+msgstr ""
+
+#: forms/widgets/calendar-display.php:3
+msgid "Initials"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:4
+msgid "Abbreviation"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:9
+msgid "Date and Posts count"
+msgstr ""
+
+#: forms/widgets/calendar-display.php:10
+msgid "List of Posts titles"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:23
+msgid "Taxonomies to include"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:53
+msgid "Terms Filtering"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:58
+msgid "Terms to show"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:62
+msgid "Minimal number of posts"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:68
+msgid "Terms Selection Method"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:72
+msgid "Select Order"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:94
+msgid "Exclude by Term ID (comma separated)"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:8
+#: forms/widgets/cloud-content.php:16
+#: forms/widgets/qrcode-content.php:245
+msgid "Name"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:9
+#: forms/widgets/cloud-content.php:17
+msgid "Count"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:11
+msgid "ID"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:12
+msgid "Slug"
+msgstr ""
+
+#: forms/widgets/cloud-content.php:18
+#: forms/widgets/navpage-content.php:28
+#: forms/widgets/posts-filter.php:7
+#: forms/widgets/vidlist-display.php:10
+msgid "Random"
+msgstr ""
+
+#: forms/widgets/cloud-display.php:12
+msgid "Term Size Range"
+msgstr ""
+
+#: forms/widgets/cloud-display.php:14
+msgid "Smallest"
+msgstr ""
+
+#: forms/widgets/cloud-display.php:16
+msgid "Largest"
+msgstr ""
+
+#: forms/widgets/cloud-display.php:18
+msgid "Size Unit"
+msgstr ""
+
+#: forms/widgets/cloud-display.php:22
+msgid "Term Wrapping"
+msgstr ""
+
+#: forms/widgets/cloud-display.php:24
+msgid "Separator"
+msgstr ""
+
+#: forms/widgets/cloud-display.php:26
+msgid "Prefix"
+msgstr ""
+
+#: forms/widgets/cloud-display.php:28
+msgid "Suffix"
+msgstr ""
+
+#: forms/widgets/cloud-display.php:40
+msgid "Show Counts"
+msgstr ""
+
+#: forms/widgets/currency-exchange.php:9
+#: forms/widgets/enhanced-text.php:5
+#: forms/widgets/qrcode-content.php:45
+#: forms/widgets/qrcode-content.php:60
+#: forms/widgets/qrcode-content.php:74
+#: forms/widgets/qrcode-content.php:89
+#: forms/widgets/qrcode-content.php:104
+#: forms/widgets/qrcode-content.php:119
+#: forms/widgets/qrcode-content.php:144
+#: forms/widgets/qrcode-content.php:159
+#: forms/widgets/qrcode-content.php:174
+#: forms/widgets/qrcode-content.php:193
+#: forms/widgets/qrcode-content.php:214
+#: forms/widgets/qrcode-content.php:239
+#: forms/widgets/units-converter.php:9
+#: widgets/author-information.php:49
+#: widgets/currency-exchange.php:42
+#: widgets/enhanced-calendar.php:46
+#: widgets/enhanced-cloud.php:56
+#: widgets/enhanced-meta.php:48
+#: widgets/enhanced-posts.php:53
+#: widgets/enhanced-text.php:39
+#: widgets/featured-post.php:45
+#: widgets/navigator-date.php:57
+#: widgets/navigator-menu.php:56
+#: widgets/navigator-pages.php:59
+#: widgets/navigator-terms.php:62
+#: widgets/posts-authors.php:53
+#: widgets/qr-code.php:74
+#: widgets/related-posts.php:51
+#: widgets/units-converter.php:42
+#: widgets/videos-playlist.php:46
+msgid "Content"
+msgstr ""
+
+#: forms/widgets/currency-exchange.php:14
+msgid "Exchange Rate to Display"
+msgstr ""
+
+#: forms/widgets/currency-exchange.php:18
+#: forms/widgets/shared-cache.php:9
+#: forms/widgets/units-converter.php:18
+msgid "Information"
+msgstr ""
+
+#: forms/widgets/currency-exchange.php:20
+msgid "Select one or more exchange rate types to display in the widget. If only one type is selected, rendered widget output will have selection box hidden."
+msgstr ""
+
+#: forms/widgets/currency-exchange.php:26
+#: forms/widgets/units-converter.php:26
+msgid "String - To"
+msgstr ""
+
+#: forms/widgets/currency-exchange.php:30
+#: forms/widgets/units-converter.php:30
+msgid "String - Replace"
+msgstr ""
+
+#: forms/widgets/enhanced-text.php:0
+msgid "Text / HTML / PHP"
+msgstr ""
+
+#: forms/widgets/enhanced-text.php:9
+msgid "Content can contain plain text, HTML and even PHP. Make sure PHP includes proper open and close tags (<strong>&lt;?php</strong> and <strong>?&gt;</strong>)."
+msgstr ""
+
+#: forms/widgets/featured-content.php:0
+msgid "Post to display"
+msgstr ""
+
+#: forms/widgets/featured-content.php:5
+#: forms/widgets/navpage-content.php:24
+#: forms/widgets/posts-filter.php:4
+msgid "Post ID"
+msgstr ""
+
+#: forms/widgets/featured-content.php:9
+#: forms/widgets/navpage-content.php:25
+#: forms/widgets/posts-filter.php:5
+msgid "Post Title"
+msgstr ""
+
+#: forms/widgets/featured-content.php:13
+msgid "No post selected for display."
+msgstr ""
+
+#: forms/widgets/featured-content.php:20
+msgid "Invalid post ID."
+msgstr ""
+
+#: forms/widgets/featured-content.php:30
+msgid "Search for post"
+msgstr ""
+
+#: forms/widgets/featured-display.php:0
+#: forms/widgets/posts-display.php:0
+msgid "Posts Rendering"
+msgstr ""
+
+#: forms/widgets/featured-display.php:16
+#: forms/widgets/navdate-content.php:87
+#: forms/widgets/navmenu-content.php:77
+#: forms/widgets/navpage-content.php:129
+#: forms/widgets/navterm-content.php:140
+#: forms/widgets/posts-display.php:16
+msgid "Misc Settings"
+msgstr ""
+
+#: forms/widgets/featured-display.php:21
+#: forms/widgets/posts-display.php:21
+msgid "Excerpt Length (Words)"
+msgstr ""
+
+#: forms/widgets/meta-content.php:4
+msgid "Logged out"
+msgstr ""
+
+#: forms/widgets/meta-content.php:8
+msgid "Show login link"
+msgstr ""
+
+#: forms/widgets/meta-content.php:12
+msgid "Show register link"
+msgstr ""
+
+#: forms/widgets/meta-content.php:16
+msgid "Logged In"
+msgstr ""
+
+#: forms/widgets/meta-content.php:20
+msgid "Show logout link"
+msgstr ""
+
+#: forms/widgets/meta-content.php:24
+msgid "Show administration link"
+msgstr ""
+
+#: forms/widgets/meta-content.php:28
+msgid "Show profile link"
+msgstr ""
+
+#: forms/widgets/meta-content.php:35
+msgid "Additional Links"
+msgstr ""
+
+#: forms/widgets/meta-content.php:43
+msgid "RSS Entries link"
+msgstr ""
+
+#: forms/widgets/meta-content.php:47
+msgid "RSS Comments link"
+msgstr ""
+
+#: forms/widgets/meta-content.php:54
+msgid "WordPress.org link"
+msgstr ""
+
+#: forms/widgets/meta-content.php:58
+msgid "Dev4Press.com link"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:27
+#: forms/widgets/navmenu-content.php:16
+#: forms/widgets/navpage-content.php:41
+#: forms/widgets/navterm-content.php:43
+msgid "Data to Display"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:32
+msgid "Available Archives"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:36
+#: forms/widgets/navterm-content.php:149
+msgid "Show Posts Count"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:43
+msgid "Hierarchy Display"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:48
+#: forms/widgets/navmenu-content.php:31
+#: forms/widgets/navpage-content.php:57
+#: forms/widgets/navterm-content.php:65
+msgid "Display Method"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:53
+msgid "Root Dates"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:54
+msgid "Full dates hierarchy will always be displayed."
+msgstr ""
+
+#: forms/widgets/navdate-content.php:58
+msgid "Detect Root Date Parent"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:59
+msgid "If in the date archive, plugin can detect this date and show only its child date archives."
+msgstr ""
+
+#: forms/widgets/navdate-content.php:61
+msgid "Show parent date on top"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:69
+#: forms/widgets/navmenu-content.php:59
+msgid "Number of Items"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:74
+#: forms/widgets/navmenu-content.php:64
+#: forms/widgets/navpage-content.php:101
+#: forms/widgets/navterm-content.php:109
+msgid "Items to show on first level"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:76
+#: forms/widgets/navdate-content.php:81
+#: forms/widgets/navmenu-content.php:66
+#: forms/widgets/navmenu-content.php:71
+#: forms/widgets/navpage-content.php:103
+#: forms/widgets/navpage-content.php:107
+#: forms/widgets/navterm-content.php:111
+#: forms/widgets/navterm-content.php:115
+msgid "Leave at 0 to show all available items."
+msgstr ""
+
+#: forms/widgets/navdate-content.php:79
+#: forms/widgets/navmenu-content.php:69
+#: forms/widgets/navpage-content.php:105
+#: forms/widgets/navterm-content.php:113
+msgid "Items to show on inner levels"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:96
+msgid "Decade URL's"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:3
+msgid "Decades / Years / Months / Days"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:4
+msgid "Decades / Years / Months"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:5
+msgid "Years / Months / Days"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:6
+msgid "Years / Months"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:7
+msgid "Years / Days"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:8
+msgid "Months / Days"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:12
+#: forms/widgets/navmenu-content.php:10
+#: forms/widgets/navpage-content.php:17
+#: forms/widgets/navterm-content.php:24
+msgid "Full Hierarchy"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:13
+msgid "Based on Current Date"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:22
+msgid "No Links"
+msgstr ""
+
+#: forms/widgets/navdate-content.php:23
+msgid "First year in decade"
+msgstr ""
+
+#: forms/widgets/navigator-display.php:10
+msgid "Animation"
+msgstr ""
+
+#: forms/widgets/navigator-display.php:15
+msgid "Animate Method"
+msgstr ""
+
+#: forms/widgets/navigator-display.php:19
+msgid "Animate Speed"
+msgstr ""
+
+#: forms/widgets/navigator-display.php:44
+msgid "Mark Current Item"
+msgstr ""
+
+#: forms/widgets/navigator-display.php:3
+msgid "Slide Down"
+msgstr ""
+
+#: forms/widgets/navigator-display.php:4
+msgid "Fade In"
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:21
+msgid "Available Menus"
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:36
+#: forms/widgets/navpage-content.php:62
+#: forms/widgets/navterm-content.php:70
+msgid "Root Items"
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:37
+#: forms/widgets/navpage-content.php:63
+#: forms/widgets/navterm-content.php:71
+msgid "Full menu hierarchy for selected menu will always be displayed."
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:41
+#: forms/widgets/navpage-content.php:67
+#: forms/widgets/navterm-content.php:75
+msgid "Custom Root Items Parent"
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:43
+#: forms/widgets/navmenu-content.php:51
+#: forms/widgets/navpage-content.php:81
+#: forms/widgets/navpage-content.php:89
+#: forms/widgets/navterm-content.php:89
+#: forms/widgets/navterm-content.php:97
+msgid "Show parent on top"
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:48
+#: forms/widgets/navpage-content.php:86
+#: forms/widgets/navterm-content.php:94
+msgid "Detect Root Items Parent"
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:49
+#: forms/widgets/navpage-content.php:87
+#: forms/widgets/navterm-content.php:95
+msgid "If on the menu item, plugin can detect this item and show only its child items."
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:82
+msgid "Show Description"
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:11
+msgid "Select Custom Item"
+msgstr ""
+
+#: forms/widgets/navmenu-content.php:12
+msgid "Based on Current Page"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:46
+msgid "Available Post Types"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:48
+msgid "It is not recommeded to use this widget for non-hierarchical post types or post types with large number of posts!"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:96
+#: forms/widgets/navterm-content.php:104
+msgid "Items Display"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:116
+msgid "Posts To Exclude"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:123
+msgid "Select one or more items to exclude. Excluding one post, exlcudes all its children posts."
+msgstr ""
+
+#: forms/widgets/navpage-content.php:134
+msgid "Show Excerpt"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:4
+#: forms/widgets/navterm-content.php:4
+msgid "Hierarchical"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:5
+#: forms/widgets/navterm-content.php:5
+msgid "Non-Hierarchical"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:18
+msgid "Select Custom Post"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:19
+msgid "Based on Current Post"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:26
+#: forms/widgets/posts-filter.php:6
+msgid "Post Slug"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:27
+msgid "Menu Order"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:29
+#: forms/widgets/posts-filter.php:8
+msgid "Comments Count"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:30
+#: forms/widgets/posts-filter.php:9
+msgid "Post Author"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:31
+#: forms/widgets/posts-filter.php:10
+msgid "Post Published Date"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:32
+#: forms/widgets/posts-filter.php:11
+msgid "Post Modified Date"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:70
+#: forms/widgets/navterm-content.php:78
+msgid "Nothing Selected"
+msgstr ""
+
+#: forms/widgets/navpage-content.php:74
+#: forms/widgets/navterm-content.php:82
+msgid "There are no parent items available right now."
+msgstr ""
+
+#: forms/widgets/navterm-content.php:48
+msgid "Available Taxonomies"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:50
+msgid "It is not recommeded to use this widget for non-hierarchical taxonomies or taxonomies with large number of terms!"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:55
+msgid "Filter by Post Type"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:117
+msgid "Hide Empty Terms"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:127
+msgid "Terms Exclude"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:134
+msgid "Select one or more items to exclude. Excluding one term, exlcudes all its children terms."
+msgstr ""
+
+#: forms/widgets/navterm-content.php:145
+msgid "Show Descriptions"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:17
+msgid "All Post Types"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:25
+msgid "Select Custom Term"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:26
+msgid "Based on Current Term"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:31
+msgid "Term ID"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:32
+msgid "Term Name"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:33
+msgid "Term Slug"
+msgstr ""
+
+#: forms/widgets/navterm-content.php:34
+msgid "Posts Count"
+msgstr ""
+
+#: forms/widgets/posts-content.php:8
+msgid "Posts to Display"
+msgstr ""
+
+#: forms/widgets/posts-content.php:13
+msgid "Retrieve Posts by"
+msgstr ""
+
+#: forms/widgets/posts-content.php:18
+#: forms/widgets/posts-content.php:3
+msgid "Post Type"
+msgstr ""
+
+#: forms/widgets/posts-content.php:22
+msgid "Post ID's"
+msgstr ""
+
+#: forms/widgets/posts-content.php:24
+msgid "Comma separated list of post ID's"
+msgstr ""
+
+#: forms/widgets/posts-content.php:4
+msgid "Post ID's List"
+msgstr ""
+
+#: forms/widgets/posts-content.php:89
+msgid "Filter by"
+msgstr ""
+
+#: forms/widgets/posts-filter.php:31
+msgid "Limit Number of Posts"
+msgstr ""
+
+#: forms/widgets/posts-filter.php:35
+msgid "Post Thumbnail Assigned"
+msgstr ""
+
+#: forms/widgets/posts-filter.php:20
+msgid "Either Way"
+msgstr ""
+
+#: forms/widgets/posts-filter.php:21
+msgid "Assigned"
+msgstr ""
+
+#: forms/widgets/posts-filter.php:22
+msgid "Not Assigned"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:27
+msgid "Select Content to Encode to QR Code"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:32
+msgid "Content to Encode"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:37
+msgid "Some formats for QR Codes are not supported by all QR code scanning apps, mostly affecting older apps and devices."
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:51
+msgid "Custom Text"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:60
+#: forms/widgets/qrcode-content.php:4
+msgid "Current URL"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:66
+msgid "Widget will use URL of the page it is own to generate QR Code."
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:80
+#: forms/widgets/qrcode-content.php:5
+msgid "Custom URL"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:104
+#: forms/widgets/qrcode-content.php:259
+msgid "Phone"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:129
+msgid "Subject"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:135
+#: forms/widgets/qrcode-content.php:205
+msgid "Message Text"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:144
+#: forms/widgets/qrcode-content.php:7
+msgid "Skype"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:150
+msgid "Skype Username or Number"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:159
+#: forms/widgets/qrcode-content.php:165
+#: forms/widgets/qrcode-content.php:6
+msgid "RSS Feed URL"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:174
+#: forms/widgets/qrcode-content.php:12
+msgid "GEO Location"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:180
+msgid "Latitude"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:184
+msgid "Longitude"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:214
+#: forms/widgets/qrcode-content.php:13
+msgid "WiFi Connection"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:220
+msgid "SSID"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:239
+#: forms/widgets/qrcode-content.php:14
+msgid "vCard Information"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:249
+msgid "Company"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:255
+#: forms/widgets/shared-global.php:5
+msgid "Title"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:275
+msgid "Address"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:279
+msgid "Note"
+msgstr ""
+
+#: forms/widgets/qrcode-content.php:18
+msgid "No Encryption"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:21
+msgid "Size and Display Method"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:26
+msgid "Size (in pixels)"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:30
+msgid "Render As"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:37
+msgid "Colors"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:42
+msgid "Fill Color"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:46
+msgid "Background Color"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:52
+msgid "Transparent"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:57
+msgid "If transparent is active, Background color will not be used."
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:68
+msgid "Error Correction"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:72
+msgid "Min. Range (1 - 10)"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:78
+msgid "Quiet Zone (1 - 4)"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:82
+msgid "Dot Radius (0 - 50)"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:89
+msgid "Display Textual Content"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:94
+msgid "Show under the QR Code"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:99
+msgid "With this, plugin will display encoded content as text."
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:8
+msgid "Low (7%)"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:9
+msgid "Medium (15%)"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:10
+msgid "Quartile (25%)"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:11
+msgid "High (30%)"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:15
+msgid "DIV"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:16
+msgid "Image"
+msgstr ""
+
+#: forms/widgets/qrcode-display.php:17
+msgid "Canvas"
+msgstr ""
+
+#: forms/widgets/related-content.php:18
+msgid "Widget will try to display related posts only for single posts (or pages) belonging to selected post types."
+msgstr ""
+
+#: forms/widgets/related-filter.php:13
+msgid "Relations Filtering"
+msgstr ""
+
+#: forms/widgets/related-filter.php:18
+msgid "Terms Relationship"
+msgstr ""
+
+#: forms/widgets/related-filter.php:26
+msgid "Keywords Search"
+msgstr ""
+
+#: forms/widgets/related-filter.php:31
+msgid "Search Method"
+msgstr ""
+
+#: forms/widgets/related-filter.php:35
+msgid "Limit Number of Keywords"
+msgstr ""
+
+#: forms/widgets/related-filter.php:3
+msgid "OR"
+msgstr ""
+
+#: forms/widgets/related-filter.php:4
+msgid "AND"
+msgstr ""
+
+#: forms/widgets/related-filter.php:8
+msgid "Automatic"
+msgstr ""
+
+#: forms/widgets/shared-cache.php:0
+msgid "Cache"
+msgstr ""
+
+#: forms/widgets/shared-cache.php:5
+msgid "Cache time (in hours)"
+msgstr ""
+
+#: forms/widgets/shared-cache.php:12
+msgid "Widget output will be stored as transient record for the time period specified."
+msgstr ""
+
+#: forms/widgets/shared-dev.php:0
+msgid "Dummy Data"
+msgstr ""
+
+#: forms/widgets/shared-dev.php:5
+msgid "Use Dummy Data"
+msgstr ""
+
+#: forms/widgets/shared-dev.php:9
+msgid "About Dummy Data Mode:"
+msgstr ""
+
+#: forms/widgets/shared-dev.php:10
+msgid "When Dummy Data is active, this widget will display random generated data, not actual website data."
+msgstr ""
+
+#: forms/widgets/shared-display.php:16
+msgid "Extras"
+msgstr ""
+
+#: forms/widgets/shared-display.php:21
+msgid "Additional CSS Class"
+msgstr ""
+
+#: forms/widgets/shared-display.php:4
+#: widgets/author-information.php:48
+#: widgets/currency-exchange.php:41
+#: widgets/enhanced-calendar.php:45
+#: widgets/enhanced-cloud.php:55
+#: widgets/enhanced-meta.php:47
+#: widgets/enhanced-posts.php:52
+#: widgets/enhanced-text.php:38
+#: widgets/featured-post.php:44
+#: widgets/navigator-date.php:56
+#: widgets/navigator-menu.php:55
+#: widgets/navigator-pages.php:58
+#: widgets/navigator-terms.php:61
+#: widgets/posts-authors.php:52
+#: widgets/qr-code.php:73
+#: widgets/related-posts.php:50
+#: widgets/units-converter.php:41
+#: widgets/videos-playlist.php:45
+msgid "Global"
+msgstr ""
+
+#: forms/widgets/shared-display.php:5
+msgid "Everyone"
+msgstr ""
+
+#: forms/widgets/shared-display.php:5
+msgid "Only Visitors"
+msgstr ""
+
+#: forms/widgets/shared-display.php:5
+msgid "All Users"
+msgstr ""
+
+#: forms/widgets/shared-display.php:6
+msgid "User Roles"
+msgstr ""
+
+#: forms/widgets/shared-markup.php:0
+#: forms/settings.php:23
+msgid "Navigation"
+msgstr ""
+
+#: forms/widgets/shared-markup.php:5
+msgid "Open Level"
+msgstr ""
+
+#: forms/widgets/shared-markup.php:11
+msgid "Close Level"
+msgstr ""
+
+#: forms/widgets/shared-markup.php:17
+msgid "Level Up"
+msgstr ""
+
+#: forms/widgets/shared-markup.php:24
+msgid "Loading Messages"
+msgstr ""
+
+#: forms/widgets/shared-markup.php:29
+msgid "Show More Message"
+msgstr ""
+
+#: forms/widgets/shared-markup.php:35
+msgid "Please Wait Message"
+msgstr ""
+
+#: forms/widgets/shared-wrapper.php:0
+msgid "Visibility"
+msgstr ""
+
+#: forms/widgets/shared-wrapper.php:5
+msgid "Display To"
+msgstr ""
+
+#: forms/widgets/shared-wrapper.php:9
+msgid "Visibility Hook"
+msgstr ""
+
+#: forms/widgets/shared-wrapper.php:16
+msgid "Before and After Content"
+msgstr ""
+
+#: forms/widgets/shared-wrapper.php:21
+msgid "Before"
+msgstr ""
+
+#: forms/widgets/shared-wrapper.php:27
+msgid "After"
+msgstr ""
+
+#: forms/widgets/units-converter.php:14
+msgid "Unit Types to Display"
+msgstr ""
+
+#: forms/widgets/units-converter.php:20
+msgid "Select one or more unit types to display in the widget. If only one type is selected, rendered widget output will have selection box hidden."
+msgstr ""
+
+#: forms/widgets/vidlist-content.php:0
+msgid "Videos"
+msgstr ""
+
+#: forms/widgets/vidlist-content.php:5
+msgid "List of Videos"
+msgstr ""
+
+#: forms/widgets/vidlist-content.php:9
+msgid "Place one video URL on each line. Only videos that are support for WordPress oEmbed (YouTube, Vimeo...) can be used. On save, each video will be checked and unsupported URL's will be removed."
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:14
+msgid "Limit videos to show"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:19
+msgid "Videos to show"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:23
+msgid "Number of Videos"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:30
+msgid "Video dimensions"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:35
+msgid "Width"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:39
+msgid "Height"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:46
+msgid "Videos ordering"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:51
+msgid "Ordering Method"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:3
+msgid "All listed videos"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:4
+msgid "Specified number of videos"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:8
+msgid "Order as Listed"
+msgstr ""
+
+#: forms/widgets/vidlist-display.php:9
+msgid "Reversed Order"
+msgstr ""
+
+#: forms/front.php:9
+#: forms/tools.php:40
+msgid "Tools"
+msgstr ""
+
+#: forms/front.php:10
+msgid "About"
+msgstr ""
+
+#: forms/install.php:17
+msgid "Installation"
+msgstr ""
+
+#: forms/install.php:20
+msgid "Before you continue, make sure plugin installation was successful."
+msgstr ""
+
+#: forms/install.php:25
+#: forms/update.php:25
+msgid "All Done"
+msgstr ""
+
+#: forms/install.php:31
+msgid "Installation completed."
+msgstr ""
+
+#: forms/install.php:34
+#: forms/update.php:34
+msgid "Click here to continue."
+msgstr ""
+
+#: forms/settings.php:49
+#: forms/settings.php:108
+msgid "Save Settings"
+msgstr ""
+
+#: forms/settings.php:52
+msgid "Return to top"
+msgstr ""
+
+#: forms/settings.php:83
+msgid "Settings Panel"
+msgstr ""
+
+#: forms/settings.php:6
+msgid "Settings Index"
+msgstr ""
+
+#: forms/settings.php:7
+msgid "All plugin settings are split into several panels, and you access each starting from the right."
+msgstr ""
+
+#: forms/settings.php:9
+msgid "Control"
+msgstr ""
+
+#: forms/settings.php:11
+msgid "These are basic settings for loading of different parts of plugin, widgets, libraries and more."
+msgstr ""
+
+#: forms/settings.php:13
+msgid "Plugin Widgets"
+msgstr ""
+
+#: forms/settings.php:14
+msgid "With these settings you can enable or disable individual plugin widgets."
+msgstr ""
+
+#: forms/settings.php:16
+msgid "WordPress Widgets"
+msgstr ""
+
+#: forms/settings.php:17
+msgid "With these settings you can disable selected default WordPress widgets."
+msgstr ""
+
+#: forms/settings.php:19
+msgid "Conversion"
+msgstr ""
+
+#: forms/settings.php:20
+msgid "Specific Widgets"
+msgstr ""
+
+#: forms/settings.php:21
+msgid "These are settings for Conversion widget."
+msgstr ""
+
+#: forms/settings.php:24
+msgid "These are settings for Navigation widgets."
+msgstr ""
+
+#: forms/tools.php:77
+msgid "Tools Panel"
+msgstr ""
+
+#: forms/tools.php:6
+msgid "Tools Index"
+msgstr ""
+
+#: forms/tools.php:7
+msgid "All plugin tools are split into several panels, and you access each starting from the right."
+msgstr ""
+
+#: forms/tools.php:9
+msgid "Export Settings"
+msgstr ""
+
+#: forms/tools.php:10
+msgid "Import Export"
+msgstr ""
+
+#: forms/tools.php:11
+msgid "Export"
+msgstr ""
+
+#: forms/tools.php:12
+msgid "Export all plugin settings into file."
+msgstr ""
+
+#: forms/tools.php:14
+msgid "Import Settings"
+msgstr ""
+
+#: forms/tools.php:15
+msgid "Import"
+msgstr ""
+
+#: forms/tools.php:16
+msgid "Import all plugin settings from export file."
+msgstr ""
+
+#: forms/tools.php:18
+msgid "Clear Cache"
+msgstr ""
+
+#: forms/tools.php:19
+msgid "Cleanup"
+msgstr ""
+
+#: forms/tools.php:20
+msgid "Clear"
+msgstr ""
+
+#: forms/tools.php:21
+msgid "Remove all cached widgets data."
+msgstr ""
+
+#: forms/tools.php:23
+msgid "Remove Settings"
+msgstr ""
+
+#: forms/tools.php:24
+msgid "Remove"
+msgstr ""
+
+#: forms/tools.php:25
+msgid "Remove selected plugin settings and information."
+msgstr ""
+
+#: forms/update.php:17
+msgid "Update"
+msgstr ""
+
+#: forms/update.php:20
+msgid "Before you continue, make sure plugin was successfully updated."
+msgstr ""
+
+#: forms/update.php:31
+msgid "Update completed."
+msgstr ""
+
+#: forms/update.php:36
+msgid "Important Notice"
+msgstr ""
+
+#: forms/update.php:37
+msgid "Before you can use the plugin, clear the website and browser cache to make sure that latest JS and CSS files are loaded."
+msgstr ""
+
+#: templates/clw-authors-standard.php:27
+msgid "Recently published"
+msgstr ""
+
+#: templates/clw-authors-standard.php:40
+msgid "Author Archives"
+msgstr ""
+
+#: templates/clw-authors-standard.php:8
+msgid "%s post published"
+msgid_plural "%s posts published"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/author-information.php:32
+msgid "Post author profile information."
+msgstr ""
+
+#: widgets/author-information.php:33
+#: widgets/currency-exchange.php:26
+#: widgets/enhanced-calendar.php:30
+#: widgets/enhanced-cloud.php:40
+#: widgets/enhanced-meta.php:32
+#: widgets/enhanced-posts.php:37
+#: widgets/enhanced-text.php:23
+#: widgets/featured-post.php:29
+#: widgets/navigator-date.php:41
+#: widgets/navigator-menu.php:40
+#: widgets/navigator-pages.php:43
+#: widgets/navigator-terms.php:46
+#: widgets/posts-authors.php:37
+#: widgets/qr-code.php:58
+#: widgets/related-posts.php:35
+#: widgets/units-converter.php:26
+#: widgets/videos-playlist.php:30
+msgid "Clever"
+msgstr ""
+
+#: widgets/author-information.php:50
+#: widgets/enhanced-calendar.php:47
+#: widgets/enhanced-cloud.php:57
+#: widgets/enhanced-posts.php:55
+#: widgets/featured-post.php:46
+#: widgets/navigator-date.php:58
+#: widgets/navigator-menu.php:57
+#: widgets/navigator-pages.php:60
+#: widgets/navigator-terms.php:63
+#: widgets/posts-authors.php:54
+#: widgets/qr-code.php:75
+#: widgets/related-posts.php:53
+#: widgets/videos-playlist.php:47
+msgid "Display"
+msgstr ""
+
+#: widgets/author-information.php:51
+#: widgets/currency-exchange.php:43
+#: widgets/enhanced-calendar.php:48
+#: widgets/enhanced-cloud.php:58
+#: widgets/enhanced-meta.php:49
+#: widgets/enhanced-posts.php:56
+#: widgets/enhanced-text.php:40
+#: widgets/featured-post.php:47
+#: widgets/navigator-date.php:60
+#: widgets/navigator-menu.php:59
+#: widgets/navigator-pages.php:62
+#: widgets/navigator-terms.php:65
+#: widgets/posts-authors.php:55
+#: widgets/qr-code.php:76
+#: widgets/related-posts.php:54
+#: widgets/units-converter.php:43
+#: widgets/videos-playlist.php:48
+msgid "Extra"
+msgstr ""
+
+#: widgets/currency-exchange.php:25
+msgid "Convert currencies using different rates sources."
+msgstr ""
+
+#: widgets/enhanced-calendar.php:29
+msgid "Ultimate date archive calendar widget."
+msgstr ""
+
+#: widgets/enhanced-calendar.php:30
+msgid "Enhanced Calendar"
+msgstr ""
+
+#: widgets/enhanced-cloud.php:39
+msgid "Powerful Tag Cloud replacement."
+msgstr ""
+
+#: widgets/enhanced-cloud.php:40
+msgid "Enhanced Term Cloud"
+msgstr ""
+
+#: widgets/enhanced-meta.php:31
+msgid "Login, Logout, RSS and other links."
+msgstr ""
+
+#: widgets/enhanced-meta.php:32
+msgid "Enhanced Meta"
+msgstr ""
+
+#: widgets/enhanced-meta.php:103
+msgid "Site Admin"
+msgstr ""
+
+#: widgets/enhanced-meta.php:107
+msgid "Profile"
+msgstr ""
+
+#: widgets/enhanced-meta.php:111
+msgid "Log Out"
+msgstr ""
+
+#: widgets/enhanced-meta.php:115
+msgid "Log In"
+msgstr ""
+
+#: widgets/enhanced-meta.php:119
+msgid "Register"
+msgstr ""
+
+#: widgets/enhanced-meta.php:124
+msgid "Entries <abbr title='Really Simple Syndication'>RSS</abbr>"
+msgstr ""
+
+#: widgets/enhanced-meta.php:128
+msgid "Comments <abbr title='Really Simple Syndication'>RSS</abbr>"
+msgstr ""
+
+#: widgets/enhanced-posts.php:234
+msgid "No posts found."
+msgstr ""
+
+#: widgets/enhanced-posts.php:36
+msgid "Ultimate posts display widget."
+msgstr ""
+
+#: widgets/enhanced-posts.php:37
+msgid "Enhanced Posts"
+msgstr ""
+
+#: widgets/enhanced-posts.php:54
+#: widgets/related-posts.php:52
+msgid "Filter"
+msgstr ""
+
+#: widgets/enhanced-text.php:22
+msgid "Arbitrary text or HTML, enhanced to allow PHP."
+msgstr ""
+
+#: widgets/enhanced-text.php:23
+msgid "Enhanced Text"
+msgstr ""
+
+#: widgets/featured-post.php:112
+msgid "No posts found for this widget."
+msgstr ""
+
+#: widgets/featured-post.php:28
+msgid "Selected featured post or page."
+msgstr ""
+
+#: widgets/navigator-date.php:40
+msgid "AJAX powered navigation for date based archives."
+msgstr ""
+
+#: widgets/navigator-date.php:41
+msgid "Date Archives Navigator"
+msgstr ""
+
+#: widgets/navigator-date.php:59
+#: widgets/navigator-menu.php:58
+#: widgets/navigator-pages.php:61
+#: widgets/navigator-terms.php:64
+msgid "Markup"
+msgstr ""
+
+#: widgets/navigator-date.php:64
+#: widgets/navigator-menu.php:63
+#: widgets/navigator-pages.php:66
+#: widgets/navigator-terms.php:69
+msgid "DEV"
+msgstr ""
+
+#: widgets/navigator-date.php:247
+#: widgets/navigator-menu.php:181
+#: widgets/navigator-pages.php:218
+#: widgets/navigator-terms.php:248
+msgid "There are no results for current widget settings."
+msgstr ""
+
+#: widgets/navigator-menu.php:39
+msgid "AJAX powered navigation for menus."
+msgstr ""
+
+#: widgets/navigator-menu.php:40
+msgid "Menu Navigator"
+msgstr ""
+
+#: widgets/navigator-pages.php:42
+msgid "AJAX powered navigation for pages and posts."
+msgstr ""
+
+#: widgets/navigator-pages.php:43
+msgid "Pages Navigator"
+msgstr ""
+
+#: widgets/navigator-terms.php:45
+msgid "AJAX powered navigation for taxonomy terms."
+msgstr ""
+
+#: widgets/navigator-terms.php:46
+msgid "Terms Navigator"
+msgstr ""
+
+#: widgets/posts-authors.php:167
+msgid "No authors found."
+msgstr ""
+
+#: widgets/posts-authors.php:36
+msgid "List of posts authors profiles."
+msgstr ""
+
+#: widgets/qr-code.php:57
+msgid "QR Code for various content."
+msgstr ""
+
+#: widgets/related-posts.php:211
+msgid "No related posts found."
+msgstr ""
+
+#: widgets/related-posts.php:34
+msgid "List of related posts for current post or page."
+msgstr ""
+
+#: widgets/units-converter.php:25
+msgid "Convert currency and other unit types."
+msgstr ""
+
+#: widgets/videos-playlist.php:29
+msgid "Multiple embedable videos with random play."
+msgstr ""
+

@@ -1,0 +1,12 @@
+=== Dev4Press Units Library ===
+== Changelog ==
+
+= Version 2.2 - 2019.04.03 =
+* Del: Google Currency Convertor
+
+= Version 2.1.1 - 2018.08.05 =
+* New: Added Serbian translations
+
+= Version 2.1 - 2018.07.30 =
+* New: added readme and changelog files 
+* New: Added 2 translations

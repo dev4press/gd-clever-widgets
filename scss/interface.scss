@@ -1,0 +1,89 @@
+.d4plib-widget {
+   table {
+        .gdclw-term-search,
+        .gdclw-author-search {
+            input[type=text] {
+                width: 190px;
+            }
+
+            input[type=button] {
+                width: 45px;
+                height: 30px;
+                padding: 0 5px 1px;
+            }
+        }
+    }
+
+    .gdclw-term-single {
+        overflow: auto;
+        border: 1px solid #cccccc;
+        border-radius: 3px;
+        background: #f7f7f7;
+        line-height: 24px;
+        margin: 0 0 5px;
+
+        span {
+            &.gdclw-operator {
+                float: left;
+                background: #cccccc;
+                padding: 0 10px;
+                margin: 0 10px 0 0;
+                cursor: pointer;
+                text-align: center;
+                width: 10px;
+                box-sizing: content-box;
+            }
+
+            &.gdclw-term {
+                display: block;
+                overflow: auto;
+            }
+        }
+    }
+
+    .gdclw-post-search-results {
+        border: 1px solid #dfdfdf;
+        height: 150px;
+        margin: 6px 0 0;
+        overflow: auto;
+
+        .gdclw-post-search-result {
+            background: #ffffff;
+            border-bottom: 1px solid #f1f1f1;
+            clear: both;
+            color: #333;
+            cursor: pointer;
+            margin-bottom: 0;
+            padding: 4px 6px 4px 10px;
+            position: relative;
+
+            &:hover {
+                background-color: #eaf2fa;
+            }
+
+            span {
+                &.item-info {
+                    float: right;
+                }
+            }
+        }
+    }
+}
+
+.editor-styles-wrapper {
+    .d4plib-widget {
+        .gdclw-term-search,
+        .gdclw-author-search {
+            input[type=text] {
+                width: 190px !important;
+                display: inline-block !important;
+            }
+
+            input[type=button] {
+                width: 45px;
+                height: 30px;
+                padding: 0 5px 1px;
+            }
+        }
+    }
+}

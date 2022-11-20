@@ -1,0 +1,77 @@
+.gdclw-posts {
+    font-size: 1em;
+    line-height: 1.6em;
+
+    article {
+        margin: 0 0 1em;
+
+        .entry-image {
+            float: left;
+            margin: 0 1em 0 0;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+
+        &:last-child {
+            margin: 0;
+        }
+
+    }
+
+    &.clw-posts-plain {
+        article {
+            border-bottom: 1px solid #dfdfdf;
+            padding: 0 0 1em;
+
+            &:last-child {
+                border-bottom: 0;
+                padding: 0;
+            }
+
+            .entry-title {
+                clear: none;
+            }
+
+            .entry-meta {
+                padding: 0;
+                margin: 0;
+                border: 0;
+                font-size: .9em;
+                clear: none;
+
+                span {
+                    float: none;
+                    padding: 0;
+                }
+            }
+
+            .entry-image {
+                margin: 0 1em .5em 0;
+            }
+
+            .entry-summary {
+                clear: both;
+                margin: .5em 0 0;
+            }
+
+            .entry-summary p {
+                p {
+                    font-size: .9em;
+                    line-height: 1.5em;
+                    margin: 0;
+                }
+            }
+
+            h4 {
+                &.entry-title {
+                    padding: 0;
+                    margin: 0 0 .5em;
+                    font-size: 1.3em;
+                }
+            }
+        }
+    }
+}

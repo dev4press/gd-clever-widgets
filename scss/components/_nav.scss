@@ -1,0 +1,157 @@
+.gdclw-navigator {
+    ul {
+        li {
+            overflow: auto;
+            margin: 0;
+            padding: 0;
+
+            &.clw-li-item {
+                font-size: 1em;
+            }
+        }
+    }
+
+    .clw-item-toggle {
+        float: left;
+
+        a, a:hover {
+            text-decoration: none;
+            width: 1.6em;
+            display: block;
+            text-align: center;
+        }
+
+        .clw-toggle-plus {
+            display: block;
+        }
+
+        .clw-toggle-minus {
+            display: none;
+        }
+
+        &.clw-item-toggle-open {
+            .clw-toggle-minus {
+                display: block;
+            }
+
+            .clw-toggle-plus {
+                display: none;
+            }
+        }
+    }
+
+    .clw-item-pad {
+        float: left;
+        width: 1.6em;
+        display: block;
+    }
+
+    .clw-item-wrapper {
+        margin: 0;
+    }
+
+    &.clw-navigator-plain {
+        ul {
+            list-style: none outside none;
+
+            &.clw-top-level {
+                margin: 0;
+            }
+
+            &.clw-li-inner-level {
+                margin: 0 0 0 0.5em;
+            }
+        }
+
+        a {
+            outline: none !important;
+            transition: none;
+        }
+
+        .clw-item-wrapper {
+            > a {
+                display: inline-block;
+                text-decoration: none;
+            }
+
+            em {
+                display: block;
+            }
+        }
+
+        .clw-li-expander {
+            padding: 0 0 0 1.6em;
+        }
+
+        .clw-no-results {
+            line-height: normal;
+        }
+    }
+
+    &.clw-navigator-elegant {
+        ul {
+            list-style: none outside none;
+            line-height: 1.6em;
+
+            &.clw-top-level {
+                margin: 0;
+            }
+
+            &.clw-li-inner-level {
+                margin: 0 0 0 1.6em;
+            }
+
+            li {
+                &.clw-li-item {
+                    border-bottom: 1px solid #dfdfdf;
+                    padding: 0.3em 0;
+                    margin: 0;
+                }
+
+                &.clw-li-level-up {
+                    font-weight: bold;
+                    border-bottom-width: 3px;
+                }
+            }
+
+            > li {
+                &.clw-li-item {
+                    &:last-child {
+                        border-bottom: none;
+                        padding: 0.2em 0 0;
+                    }
+                }
+            }
+        }
+
+        a {
+            outline: none !important;
+            transition: none;
+        }
+
+        .clw-item-wrapper {
+            > a {
+                display: inline-block;
+                text-decoration: none;
+            }
+
+            em {
+                display: block;
+            }
+        }
+
+        .clw-li-expander {
+            padding: 0 0 0 1.6em;
+            border-top: 2px solid #dfdfdf;
+            padding: 0.2em 0 0.2em 1.6em;
+
+            a {
+                text-decoration: none;
+            }
+        }
+
+        .clw-no-results {
+            line-height: normal;
+        }
+    }
+}

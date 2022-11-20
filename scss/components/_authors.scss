@@ -1,0 +1,56 @@
+.clw-authors-plain {
+    .clw-authors-single {
+        text-align: center;
+        margin: 0 0 2em;
+        padding: 0 0 2em;
+        border-bottom: 1px solid #888;
+
+        &:last-of-type {
+            margin: 0;
+            padding: 0;
+            border-bottom: 0;
+        }
+
+        .avatar {
+            margin: 0 auto 1em;
+            border-radius: 0;
+        }
+
+        h3 {
+            margin: 0 0 .1em !important;
+            font-size: 1.5em;
+        }
+
+        em {
+            font-size: .9em;
+            display: block;
+        }
+
+        p {
+            font-size: .9em;
+            line-height: 1.25;
+            margin: 1em 0 0;
+        }
+
+        h6 {
+            margin: 1em 0 .25em !important;
+            font-size: 1.1em;
+        }
+
+        ul, ul li {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .clw-archives-button {
+            margin: 1em 0 0;
+            font-size: 1.1em;
+            font-weight: bold;
+            display: inline-block;
+            padding: .25em 1em;
+            border-radius: 4px;
+            background-color: #eee;
+        }
+    }
+}
